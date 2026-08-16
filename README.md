@@ -12,3 +12,6 @@ pattern.
 
 Note: example obfuscated output omitted — the original use case 
 involved production business logic not suitable for public sharing.
+
+## Code samples
+The examples below are excerpts illustrating the implementation and tooling used in the original project.
